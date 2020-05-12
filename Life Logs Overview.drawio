@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T11:01:50.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="3VAA4Qo4gmYXAkZF77yw" version="13.1.0" type="github"><diagram id="lRxo8wEPJjpSzPwTczj5" name="Page-1">7VnZkps4FP0aP8bFauPHNu5kkulMOuOHSZ6mZJBBaYEoWXjprx8JJDZht1NeSNXkxeV70XrO4erqMrL9ZP+Bgiz+TEKIR5YR7kf2YmRZU2/Cf4XjUDpcRzoiisLSZdaOJXqF0mlIb45CuGk1ZIRghrK2MyBpCgPW8gFKya7dbE1we9YMRFBzLAOAde8/KGRx6fVco/b/AVEUq5lNQz5JgGosHZsYhGTXcNmPI9unhLDyX7L3IRbYKVzKfu+PPK0WRmHKzunwbub98MEH5yOLvtqzz5/+zL3ZOznKFuBcblgulh0UAmCTlcCu0R7yseYZQSmD9HHLJxbomtxXbc7gRgg2sWhZGDFLsGrEKHmBPsGEck9KUj7DHIMVxM9kgxgiKXcHUAzOH2whZYgT8dRpsCKMkaTR4AGjSDxgJONeIK1qnDXCWM05smzDMD1vUS45E1tM9pFQ7hi85hSOE7JCfOclKnwCuD8Kt1mRyMUPSQIZPfAmsoMtaZe6t5W9q1Vku6UrbghICQtI3UbVwDW1/I9k9yeYtn4z3WY6IEmWi46Xc21ZY7fFttnDtmK2ybbj3oht09XYhSEPbNIklMUkIinAj7V3TkmehhWddZsnIvAuiP0BGTvIKA1yRtq0l3OKiU4DyddFchrAExuwZawHNILs1EaNfmYoxIChbXsh14d5osF8MYgcKnr4JvsXxndhjC1X2Yt98+niIK0B0PeGBN/WItrfEPD4dZqRXYwYXGag2P+Ox4M+CV8UDaoUQAWDOjw0woFp9cSDya2iv6lH+zvEg1rKY7cpZvN+SnbuFUdk12dxZDaygE4aYHl2e4hyYbJXTfIDpeDQaFacxJvj8zjWpJ1uuJ1k8I32PKPtaKxcQa24CpMLRDi9X7Sc3jFanquxQaOlcyxaGn+Vs/9qYdO29BzqvkHT1SDjySmL4EbDSmWYwQEjDhp9G7BVie7TqnKA4CUqMP+SMz4KvB6y7qRzIDn6cTTpAda7FbBTDVj9dMKYX/FhI3sPMMnDuyjRmbXxcrwzlXgzwDwNsIech0qKXkFxVxKLmWAmZMTvM5NI/FtCukWB/l4rPGO4B5G4Z80zSBFfp5Ct8j4rl3Wfd9/rHJPm0IjPNMSXto7xPA9eoJ5xltdfVS+yOnfjzm10jckuiAFl4xAwsAKF6Psgv0EkUGnCYJHA9PQ3/3+RlyqBv5k0uEMmDeZsEHr2iH1rZHHc/N54VJMjjCG5mQ3JjTo0T56iDbJkFe5idqqa35UrPmejPmgarVbZQH3OMzeYhkcP2oSEefFiqIIlhmtxeGx4eEdp9FRYC8voK2l2K58JCsNirCscBrbTPXR7qhReT416erMatQ6uhuqvXZMmZe7uV1+jelntpgBkveaZ2ngDg5widhhjErz8m1HC+BhFIb5T2fZ9f+7Pr6QCt3M5sKaaCmxPF4Fr3UoEZ3yT+i2C24qg7+59JRFws/7mWVaW6g/H9uN/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-12T11:17:54.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="E9KO54UPcIR-nL-YXQuA" version="13.1.0" type="github">
+  <diagram id="lRxo8wEPJjpSzPwTczj5" name="Page-1">
+    <mxGraphModel dx="786" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-98jCaG4ItgQ39MJKu89-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" parent="1" vertex="1">
+          <mxGeometry x="20" y="77.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-98jCaG4ItgQ39MJKu89-3" target="-98jCaG4ItgQ39MJKu89-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-3" target="-98jCaG4ItgQ39MJKu89-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-3" value="React (mobile first)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="100" y="122.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-4" target="-98jCaG4ItgQ39MJKu89-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XEzQ9w41t3HS5LHhzcKM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-98jCaG4ItgQ39MJKu89-4" target="-98jCaG4ItgQ39MJKu89-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-4" value="React Native&amp;nbsp;&lt;br&gt;(mobile app)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="100" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-5" value="Postges" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="560" y="145" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-7" value="AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="372.5" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-8" value="Authorization &lt;br&gt;Service" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="200" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-9" value="S3&lt;br&gt;Bucket" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="560" y="350" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-10" target="-98jCaG4ItgQ39MJKu89-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-10" target="-98jCaG4ItgQ39MJKu89-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="-98jCaG4ItgQ39MJKu89-10" target="-98jCaG4ItgQ39MJKu89-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-10" value="Backend service(s)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="350" y="215" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-20" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#CCCBCB;" parent="1" vertex="1">
+          <mxGeometry x="350" y="127" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="-98jCaG4ItgQ39MJKu89-21" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#CCCBCB;" parent="1" vertex="1">
+          <mxGeometry x="350" y="320" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="XEzQ9w41t3HS5LHhzcKM-1" value="Different repos on github for the following components:&lt;br&gt;- React&lt;br&gt;- React Native&lt;br&gt;- Backend&lt;br&gt;&lt;ul&gt;&lt;li&gt;Profile&lt;/li&gt;&lt;li&gt;Questions&lt;/li&gt;&lt;li&gt;Answers&lt;/li&gt;&lt;li&gt;Multimedia&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;As an authorization service AWS IAM could be used for both internal users and those signed up with their social accounts.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;All components should be deployed as containers to AWS ECS by using github acitons (CI/CD).&lt;br&gt;&lt;br&gt;S3 Bucket used as a BLOB storage for multimedia.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="440" width="322" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="XEzQ9w41t3HS5LHhzcKM-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-finance-vol-13-1/512/18-128.png;fillColor=#67AB9F;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEzQ9w41t3HS5LHhzcKM-5" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XEzQ9w41t3HS5LHhzcKM-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pittogrammi/142/04-128.png;fillColor=#67AB9F;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XEzQ9w41t3HS5LHhzcKM-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/picons-social/57/56-apple-128.png;fillColor=#67AB9F;align=left;" vertex="1" parent="1">
+          <mxGeometry x="57" y="312" width="28" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
