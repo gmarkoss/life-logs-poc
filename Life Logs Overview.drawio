@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T11:22:55.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="JfU2Eli9C2JRmpDUqB67" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-12T11:23:13.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="uG3a8RpUqm7Xw9AL3qCY" version="13.1.0" type="github">
   <diagram id="lRxo8wEPJjpSzPwTczj5" name="Page-1">
     <mxGraphModel dx="786" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="-98jCaG4ItgQ39MJKu89-5" value="Postges" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="560" y="145" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-98jCaG4ItgQ39MJKu89-7" value="AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="-98jCaG4ItgQ39MJKu89-7" value="Powered by &lt;br&gt;AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="610" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-8" value="Authorization &lt;br&gt;Service" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
