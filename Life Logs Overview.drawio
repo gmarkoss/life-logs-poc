@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T12:49:32.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="yYRONonAg93eQenQ9e7P" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-13T19:07:49.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="6kCprepUytJHlvrWFMUo" version="13.1.0" type="github">
   <diagram id="lRxo8wEPJjpSzPwTczj5" name="Page-1">
-    <mxGraphModel dx="786" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="822" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cLXKDfpS_NcSic6R49hy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-98jCaG4ItgQ39MJKu89-4" target="-98jCaG4ItgQ39MJKu89-9">
+        <mxCell id="cLXKDfpS_NcSic6R49hy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-4" target="-98jCaG4ItgQ39MJKu89-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="433" />
@@ -12,13 +12,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cLXKDfpS_NcSic6R49hy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-98jCaG4ItgQ39MJKu89-4" target="cLXKDfpS_NcSic6R49hy-3">
+        <mxCell id="cLXKDfpS_NcSic6R49hy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="-98jCaG4ItgQ39MJKu89-4" target="cLXKDfpS_NcSic6R49hy-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-4" value="React Native&amp;nbsp;&lt;br&gt;(mobile app)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="80" y="332.5" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cLXKDfpS_NcSic6R49hy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-98jCaG4ItgQ39MJKu89-3" target="-98jCaG4ItgQ39MJKu89-9">
+        <mxCell id="cLXKDfpS_NcSic6R49hy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-3" target="-98jCaG4ItgQ39MJKu89-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="583" y="370" as="targetPoint" />
             <Array as="points">
@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cLXKDfpS_NcSic6R49hy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-98jCaG4ItgQ39MJKu89-3" target="cLXKDfpS_NcSic6R49hy-3">
+        <mxCell id="cLXKDfpS_NcSic6R49hy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="-98jCaG4ItgQ39MJKu89-3" target="cLXKDfpS_NcSic6R49hy-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-3" value="React (mobile first)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -87,8 +87,8 @@
         <mxCell id="-98jCaG4ItgQ39MJKu89-21" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#CCCBCB;" parent="1" vertex="1">
           <mxGeometry x="390" y="332.5" width="38" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="XEzQ9w41t3HS5LHhzcKM-1" value="Different repos on github for the following components:&lt;br&gt;- React&lt;br&gt;- React Native&lt;br&gt;- Backend&lt;br&gt;&lt;ul&gt;&lt;li&gt;Profile&lt;/li&gt;&lt;li&gt;Questions&lt;/li&gt;&lt;li&gt;Answers&lt;/li&gt;&lt;li&gt;Multimedia&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;As an authorization service AWS IAM with Cognito could be used for both internal users and those signed up with their social accounts through federation.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;All components should be deployed as containers to AWS ECS by using github actions all some other&amp;nbsp;&lt;/div&gt;CI/CD pipeline&lt;span&gt;.&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;S3 Bucket used as a BLOB storage for multimedia.&lt;br&gt;&lt;br&gt;Postgres or Mongodb databases. Postgres should be more than fine for our requirements. If there would be more services, it should be followed by the same number of database, one per service, but we&#39;ll most likely start with monolithic API at least in MVP phase.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For client audio/video recording capabilities, MediaRecorder API can be used.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="68" y="452.5" width="322" height="397.5" as="geometry" />
+        <mxCell id="XEzQ9w41t3HS5LHhzcKM-1" value="Different repos on github for the following components:&lt;br&gt;- React&lt;br&gt;- React Native&lt;br&gt;- Backend&lt;br&gt;&lt;ul&gt;&lt;li&gt;Profile&lt;/li&gt;&lt;li&gt;Questions&lt;/li&gt;&lt;li&gt;Answers&lt;/li&gt;&lt;li&gt;Multimedia&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;As an Identity service AWS IAM with Cognito could be used for both internal users and those signed up with their social accounts through federation.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;All components should be deployed as containers to AWS ECS by using github actions or some other&amp;nbsp;&lt;/div&gt;CI/CD pipeline&lt;span&gt;.&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;S3 Bucket as a BLOB storage for multimedia.&lt;br&gt;&lt;br&gt;Postgres or Mongodb databases. Postgres should be more than fine for our requirements. If there would be more services, it should be followed by the same number of databases, one per service so to say. But we&#39;ll most likely start with monolithic API at least in MVP phase and just one single database.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For client audio/video recording capabilities, we can leverage MediaRecorder API. (still to be checked how&#39;s its support fo iOS devices. As for all others we already know it would be a good fit.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="71" y="490" width="322" height="437.5" as="geometry" />
         </mxCell>
         <mxCell id="XEzQ9w41t3HS5LHhzcKM-5" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" parent="1" vertex="1">
           <mxGeometry x="60" y="334.5" width="30" height="50" as="geometry" />
@@ -102,7 +102,7 @@
         <mxCell id="XEzQ9w41t3HS5LHhzcKM-9" value="Frontend commons" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;strokeColor=#666666;fontColor=#333333;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="71" y="245" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cLXKDfpS_NcSic6R49hy-3" value="MediaRecorder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;strokeColor=#666666;fontColor=#333333;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="cLXKDfpS_NcSic6R49hy-3" value="MediaRecorder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;strokeColor=#666666;fontColor=#333333;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="160" y="245" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
