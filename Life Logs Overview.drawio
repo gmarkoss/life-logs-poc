@@ -1,11 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T13:24:44.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="7HMOpbrdsMzGXsz462Cm" version="13.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-13T12:49:32.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="yYRONonAg93eQenQ9e7P" version="13.1.1" type="github">
   <diagram id="lRxo8wEPJjpSzPwTczj5" name="Page-1">
-    <mxGraphModel dx="825" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cLXKDfpS_NcSic6R49hy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-98jCaG4ItgQ39MJKu89-4" target="-98jCaG4ItgQ39MJKu89-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="433" />
+              <mxPoint x="575" y="433" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLXKDfpS_NcSic6R49hy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-98jCaG4ItgQ39MJKu89-4" target="cLXKDfpS_NcSic6R49hy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-4" value="React Native&amp;nbsp;&lt;br&gt;(mobile app)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="80" y="332.5" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cLXKDfpS_NcSic6R49hy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-98jCaG4ItgQ39MJKu89-3" target="-98jCaG4ItgQ39MJKu89-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="583" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="110" />
+              <mxPoint x="605" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLXKDfpS_NcSic6R49hy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-98jCaG4ItgQ39MJKu89-3" target="cLXKDfpS_NcSic6R49hy-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-3" value="React (mobile first)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="90" y="135" width="170" height="60" as="geometry" />
@@ -14,7 +37,7 @@
           <mxGeometry x="50" y="112.5" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="XEzQ9w41t3HS5LHhzcKM-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/business-finance-vol-13-1/512/18-128.png;fillColor=#67AB9F;align=left;" parent="1" vertex="1">
-          <mxGeometry x="50" y="170" width="60" height="60" as="geometry" />
+          <mxGeometry x="45" y="167.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-98jCaG4ItgQ39MJKu89-3" target="-98jCaG4ItgQ39MJKu89-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -34,28 +57,28 @@
         <mxCell id="XEzQ9w41t3HS5LHhzcKM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-4" target="XEzQ9w41t3HS5LHhzcKM-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-98jCaG4ItgQ39MJKu89-5" value="Postges" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="600" y="90" width="60" height="80" as="geometry" />
+        <mxCell id="-98jCaG4ItgQ39MJKu89-5" value="LifeLogs&lt;br&gt;Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="630" y="95" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-7" value="Powered by &lt;br&gt;AWS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="600" y="202.5" width="170" height="120" as="geometry" />
+          <mxGeometry x="620" y="202.5" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-98jCaG4ItgQ39MJKu89-8" value="Authorization &lt;br&gt;Service" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="250" y="230" width="90" height="70" as="geometry" />
+        <mxCell id="-98jCaG4ItgQ39MJKu89-8" value="Identity &lt;br&gt;service" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="270" y="227.5" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-98jCaG4ItgQ39MJKu89-9" value="S3&lt;br&gt;Bucket" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="600" y="362.5" width="60" height="80" as="geometry" />
+        <mxCell id="-98jCaG4ItgQ39MJKu89-9" value="Multimedia&lt;br&gt;Storage" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="575" y="392.5" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-10" target="-98jCaG4ItgQ39MJKu89-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-98jCaG4ItgQ39MJKu89-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-10" target="-98jCaG4ItgQ39MJKu89-9" edge="1">
+        <mxCell id="-98jCaG4ItgQ39MJKu89-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.256;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-98jCaG4ItgQ39MJKu89-10" target="-98jCaG4ItgQ39MJKu89-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="-98jCaG4ItgQ39MJKu89-10" target="-98jCaG4ItgQ39MJKu89-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-98jCaG4ItgQ39MJKu89-10" value="Backend service(s)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="-98jCaG4ItgQ39MJKu89-10" value="API Backend service(s)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="390" y="227.5" width="185" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-98jCaG4ItgQ39MJKu89-20" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#CCCBCB;" parent="1" vertex="1">
@@ -64,8 +87,8 @@
         <mxCell id="-98jCaG4ItgQ39MJKu89-21" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#CCCBCB;" parent="1" vertex="1">
           <mxGeometry x="390" y="332.5" width="38" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="XEzQ9w41t3HS5LHhzcKM-1" value="Different repos on github for the following components:&lt;br&gt;- React&lt;br&gt;- React Native&lt;br&gt;- Backend&lt;br&gt;&lt;ul&gt;&lt;li&gt;Profile&lt;/li&gt;&lt;li&gt;Questions&lt;/li&gt;&lt;li&gt;Answers&lt;/li&gt;&lt;li&gt;Multimedia&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;As an authorization service AWS IAM could be used for both internal users and those signed up with their social accounts.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;All components should be deployed as containers to AWS ECS by using github actions (CI/CD).&lt;br&gt;&lt;br&gt;S3 Bucket used as a BLOB storage for multimedia.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For client audio/video recording capabilities, MediaRecorder API can be used.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="68" y="452.5" width="322" height="310" as="geometry" />
+        <mxCell id="XEzQ9w41t3HS5LHhzcKM-1" value="Different repos on github for the following components:&lt;br&gt;- React&lt;br&gt;- React Native&lt;br&gt;- Backend&lt;br&gt;&lt;ul&gt;&lt;li&gt;Profile&lt;/li&gt;&lt;li&gt;Questions&lt;/li&gt;&lt;li&gt;Answers&lt;/li&gt;&lt;li&gt;Multimedia&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;As an authorization service AWS IAM with Cognito could be used for both internal users and those signed up with their social accounts through federation.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;All components should be deployed as containers to AWS ECS by using github actions all some other&amp;nbsp;&lt;/div&gt;CI/CD pipeline&lt;span&gt;.&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;S3 Bucket used as a BLOB storage for multimedia.&lt;br&gt;&lt;br&gt;Postgres or Mongodb databases. Postgres should be more than fine for our requirements. If there would be more services, it should be followed by the same number of database, one per service, but we&#39;ll most likely start with monolithic API at least in MVP phase.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For client audio/video recording capabilities, MediaRecorder API can be used.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="68" y="452.5" width="322" height="397.5" as="geometry" />
         </mxCell>
         <mxCell id="XEzQ9w41t3HS5LHhzcKM-5" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" parent="1" vertex="1">
           <mxGeometry x="60" y="334.5" width="30" height="50" as="geometry" />
@@ -77,7 +100,10 @@
           <mxGeometry x="97" y="374.5" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="XEzQ9w41t3HS5LHhzcKM-9" value="Frontend commons" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;strokeColor=#666666;fontColor=#333333;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="110" y="245" width="80" height="40" as="geometry" />
+          <mxGeometry x="71" y="245" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cLXKDfpS_NcSic6R49hy-3" value="MediaRecorder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;strokeColor=#666666;fontColor=#333333;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="160" y="245" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
